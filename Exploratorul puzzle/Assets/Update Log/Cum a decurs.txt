@@ -1,0 +1,45 @@
+Actualizari Log
+
+Versiunea 1.0.0 :
+-Creare meniu 
+-Implementare Interfate Meniu
+-Creare nivele 
+-adaugare muzica 
+-creare baza de date 
+-realizare sisteme ui 
+-implementare setari si functionarea lor
+-creare scripturi
+-adaugare imagini , animatii , texte.
+
+Versiunea 1.0.1 : 
+-rezolvare bug-uri minore in scripturi
+-rezolvare bug-uri in interfate, si nivele
+
+Versiunea 1.0.2:
+-creare sistem si actionare de sunete
+
+Versiunea 1.1.0:
+-Creare secrete 
+-Creare variabile baza de date 
+-Adaugare sunete secrete
+-Implementare Meniu secret
+-Realizare UnderGround level secret
+
+Versiunea 1.1.1:
+-rezolvare bug-uri sistem UI
+-rezolvare bug-uri secrete
+
+Versiunea 1.1.2:
+-Schimbare bucati nivele incoveniente 
+-Resetare secret nivel 1 
+-rezolvare bug-uri miscare caracter si camera look
+
+Versiunea 1.1.3:
+-Rezolvare Bug-uri sistem
+-Rezolvare bug-uri interfata player-ului
+-Rezolvare bug-uri secrete 
+-Finalizare proiect cu ecran Final.
+
+Versiunea 1.1.4 (Actuala):
+-Rezolvare probleme UI / LoadingScreen 
+-Adaugare colidere si blocare pereti harta
